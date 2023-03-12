@@ -19,7 +19,7 @@ To remedy this situation which has reached the alert level, it is urgent to prop
 
 ## Contributing
 
-Open and multy faceted contribution to this project are highly encouraged! Contributrions of any form following personnal interest, availability, or skill can be made through this project repository on GitHub. All participants are expected to follow our [project's code of conduct](https://github.com/Mboalab/From-invisible-to-citizens-Apparent-Age-for-Primary-School-children-without-birth-certificates/blob/main/Code%20of%20Conduct) and check the [Contributions Guidelines](https://github.com/Fadanka/Breast-Cancer-Diagnostics/blob/main/CONTRIBUTING.md).
+Open and multy faceted contribution to this project are highly encouraged! Contributrions of any form following personnal interest, availability, or skill can be made through this project repository on GitHub. All participants are expected to follow our [project's code of conduct](https://github.com/Mboalab/From-invisible-to-citizens-Apparent-Age-for-Primary-School-children-without-birth-certificates/blob/main/Code%20of%20Conduct) and check the [Contributions Guidelines](https://github.com/Mboalab/From-invisible-to-citizens-Apparent-Age-for-Primary-School-children-without-birth-certificates/blob/main/Contributing).
 
 ## Get in touch
 
