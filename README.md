@@ -15,7 +15,7 @@ Ages fraud scandals have tarnished African sport at the international level. In 
 To remedy this situation which has reached the alert level, it is urgent to propose a simplified and open system for determining Apparent Age to turn invisible kids to visible ones based on available Data and Machine Learning techniques.
 
 
-**The aim of this project is to develop a hybrid diagnosis method combining deep Learning algorithms and Digital microscopy of stained specimens for diagnosis of cancers, breast cancer in particular.**
+**The aim of this project is to develop a solution that will reduce the birth certificate delivery process.**
 
 ## Contributing
 
