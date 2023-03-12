@@ -73,7 +73,7 @@ Timezone: Africa/Douala
 Location: Yaoundé, Cameroon
 Contact info:
 Personal Email: hylaryemma@gmail.com
-BARBARI A BARBARI Michelle
+- BARBARI A BARBARI Michelle
 Personal info 
 Timezone: Africa/Douala
 Location: Yaoundé, Cameroon
