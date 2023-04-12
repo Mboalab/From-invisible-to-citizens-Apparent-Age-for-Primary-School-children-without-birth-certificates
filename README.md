@@ -17,6 +17,9 @@ To remedy this situation which has reached the alert level, it is urgent to prop
 
 **The aim of this project is to develop a solution that will reduce the birth certificate delivery process.**
 
+## Vision 
+We look forward to a situation where every child has a birth certificate. Where they are protected, cared for and given the opportunities to act as citizens. Where they grow strong in communities full of promise. Where families are aware of the necessity to protect their children by declaring their birth to authorities. Where kids  become responsible citizens of a well-led nation. Where peace and justice reign and all have the right to contribute. Communities and municipalities would help by sharing valuable informations and data in order to help predict apparent ages. Education and constant  communication with parents will help solve the problem and decrease  proliferation of fake birth certificates called “Kumba” in our national landscape.
+
 ## Contributing
 
 Open and multy faceted contribution to this project are highly encouraged! Contributrions of any form following personnal interest, availability, or skill can be made through this project repository on GitHub. All participants are expected to follow our [project's code of conduct](https://github.com/Mboalab/From-invisible-to-citizens-Apparent-Age-for-Primary-School-children-without-birth-certificates/blob/main/Code%20of%20Conduct) and check the [Contributions Guidelines](https://github.com/Mboalab/From-invisible-to-citizens-Apparent-Age-for-Primary-School-children-without-birth-certificates/blob/main/Contributing).
